@@ -3,7 +3,7 @@
 //  DBG
 //
 //  Created by Hitesh Agarwal on 10/07/19.
-//  Copyright © 2019 Finoit Technologies. All rights reserved.
+ 
 //
 
 import Foundation

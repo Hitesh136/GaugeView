@@ -3,8 +3,7 @@
 //  GaugeView
 //
 //  Created by Hitesh Agarwal on 23/07/19.
-//  Copyright © 2019 Finoit Technologies. All rights reserved.
-//
+
 
 import UIKit
 
